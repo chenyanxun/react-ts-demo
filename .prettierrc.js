@@ -1,4 +1,3 @@
-// 使用 Prettier 处理代码格式问题，使用 Linters 处理代码质量问题
 export default {
   // 箭头函数只有一个参数的时候可以忽略括号
   arrowParens: 'avoid',
